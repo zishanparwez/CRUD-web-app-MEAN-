@@ -1,8 +1,6 @@
-## MEAN Stack with Angular 2 Tutorial
+## Basic CRUD MEAN web app
 
 This is an application demonstrating the basic components needed for a Single Page Application using MongoDB, ExpressJS, Angular 2, and NodeJS.
-
-A working example can be found [here](https://damp-bastion-39490.herokuapp.com/). Additionally, a YouTube tutorial series illustrating how to create this application from scratch can be found [here](https://youtu.be/pDYhwfi7VU0).
 
 ## Requirements
 
@@ -49,11 +47,6 @@ $ npm start
 -- Access development server at: http://localhost:4200
 
 -- Access API at: http://localhost:8080
-
-
-## Contributors
-
-David Acosta.
 
 ## License
 
